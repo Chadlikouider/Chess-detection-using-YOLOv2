@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>7a34d8620235048917b28bcfd3b5572b.jpg</filename>
+	<path>7a34d8620235048917b28bcfd3b5572b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>2284</width>
+		<height>1529</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black-rook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>968</xmin>
+			<xmax>1100</xmax>
+			<ymin>758</ymin>
+			<ymax>952</ymax>
+		</bndbox>
+	</object>
+</annotation>
