@@ -13,7 +13,7 @@ This repository contains code for a object detector based on [YOLO9000: Better, 
 
 # Setup
 
-## Before running the code (steps taken from cdle training labs)
+## Before running the code
 
 ### Install Java
 
